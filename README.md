@@ -1,6 +1,8 @@
 # PeopleDetection
 Darknet을 이용한 사람 식별 프로그램
-필요 프로그램: https://github.com/AlexeyAB/darknet.git
+
+## 사전 요구 프로그램
+https://github.com/AlexeyAB/darknet.git
 
 ## 주요 기능
 - 실시간 영상에서 사람 감지   
